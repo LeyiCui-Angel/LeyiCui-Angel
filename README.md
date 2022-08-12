@@ -24,10 +24,10 @@
 
 ### Learn More About Me
 
-<a href="https://www.linkedin.com/in/angelc-leyi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/angelc-leyi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://leyicui-angel.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-Angel%20Cui-important?style=for-the-badge"></a>
+<a href="https://leyicui-angel.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Personal%20Website-Angel%20Cui-important?style=for-the-badge"></a>
 
 <h3>Contact Me</h3>
 
-<a href="mailto:lc3542@barnard.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:lc3542@barnard.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
