@@ -3,8 +3,8 @@
 <hr>
 
 <p align="center">I'm Angel (Leyi) Cui</p>
-<p align="center"><a href="https://barnard.edu/">@Barnard College of Columbia University</a> Class of 2024</p>
-<p align="center"> B.A. in Computer Science; Minor in Statistics, Dance</p>
+<p align="center"><a href="https://barnard.edu/">@Barnard College of Columbia University</a> Class of 2023.5</p>
+<p align="center"> B.A. in Computer Science; Minor in Dance</p>
 
 <p align="center">
   <img src="pic_cu.JPG" width="50%" height="50%">
