@@ -12,11 +12,10 @@
 
 <hr>
 
-- 🔭 I’m currently doing research on Temporal Stream Logic in the field of Programming Language <a href="https://github.com/Barnard-PL-Labs">@Barnard PL Labs</a> 
+- 🔭 I’m currently working as a research assistant on Temporal Stream Logic in the field of Programming Language <a href="https://github.com/Barnard-PL-Labs">@Barnard PL Labs</a> 
 - 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on computer vision projects
-- 🤔 I’m looking for help with C++, AWS, and Machine Learning
-- 💬 Ask me about Python, Java, and Game Design
+- 👯 I’m looking to collaborate on Programming Language, Software Engineer, and Human-computer Interaction projects
+- 💬 Ask me about Python, Java, my research, and Game Design
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: My favorite place to go in New York so far is *Lincoln Center*
 
@@ -30,4 +29,4 @@
 
 <h3>Contact Me</h3>
 
-<a href="mailto:lc3542@barnard.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:angelcui4work@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
