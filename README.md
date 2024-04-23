@@ -13,9 +13,8 @@
 <hr>
 
 - 🔭 I’m currently working as a research assistant on Temporal Stream Logic in the field of Programming Language <a href="https://github.com/Barnard-PL-Labs">@Barnard PL Labs</a> 
-- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Programming Language, Software Engineering, and Human-computer Interaction projects
-- 💬 Ask me about Python, Java, my research, and Game Design
+- 💬 Ask me about my research.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: My favorite place to go in New York so far is *Lincoln Center*
 
