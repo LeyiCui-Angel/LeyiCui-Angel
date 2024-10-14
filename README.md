@@ -12,7 +12,8 @@
 
 <hr>
 
-- 🔭 I’m currently working as a research assistant on Temporal Stream Logic in the field of Programming Language <a href="https://github.com/Barnard-PL-Labs">@Barnard PL Labs</a> 
+- 💼 I'm currently working as a research assistant on secure code generation with LLMs under Prof. Baishakhi Ray and Prof. Junfeng Yang. 
+- 🔭 Most of my previous work is done in the field of Programming Synthesis under Prof. Mark Santolucito, as well as software robustness and formal methods with Prof. Eunsuk Kang.
 - 👯 I’m looking to collaborate on Programming Language, Software Engineering, and Human-computer Interaction projects
 - 💬 Ask me about my research.
 - 😄 Pronouns: she/her/hers
