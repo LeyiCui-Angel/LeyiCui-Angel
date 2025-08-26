@@ -3,6 +3,8 @@
 <hr>
 
 <p align="center">I'm Angel (Leyi) Cui</p>
+<p align="center"><a href="https://www.cs.cmu.edu/">@Carnegie Mellon University</a></p>
+<p align="center"> First-year PhD student in Software Engineering</p>
 <p align="center"><a href="https://columbia.edu/">@Columbia University</a> Class of 2025</p>
 <p align="center"> M.S. in Computer Science</p>
 <p align="center"><a href="https://barnard.edu/">@Barnard College of Columbia University</a> Class of 2023.5</p>
@@ -15,8 +17,8 @@
 <hr>
 
 - 💼 I'm currently working as a research assistant on secure code generation with LLMs under Prof. Baishakhi Ray and Prof. Junfeng Yang. 
-- 🔭 Most of my previous work is done in the field of Programming Synthesis under Prof. Mark Santolucito, as well as software robustness and formal methods with Prof. Eunsuk Kang.
-- 👯 I’m looking to collaborate on Programming Language, Software Engineering, and Human-computer Interaction projects
+- 🔭 Most of my previous work is done in the field of program synthesis under Prof. Mark Santolucito, software robustness and formal methods with Prof. Eunsuk Kang, and LLM code generation with Prof. Baishakhi Ray and Prof. Junfeng Yang.
+- 👯 I’m looking to collaborate on Formal Methods, Software Engineering, and Artificial Intelligence projects
 - 💬 Ask me about my research.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: My favorite place to go in New York so far is *Lincoln Center*
