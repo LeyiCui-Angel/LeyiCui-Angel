@@ -16,7 +16,6 @@
 
 <hr>
 
-- 💼 I'm currently working as a research assistant on secure code generation with LLMs under Prof. Baishakhi Ray and Prof. Junfeng Yang. 
 - 🔭 Most of my previous work is done in the field of program synthesis under Prof. Mark Santolucito, software robustness and formal methods with Prof. Eunsuk Kang, and LLM code generation with Prof. Baishakhi Ray and Prof. Junfeng Yang.
 - 👯 I’m looking to collaborate on Formal Methods, Software Engineering, and Artificial Intelligence projects
 - 💬 Ask me about my research.
